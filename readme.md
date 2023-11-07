@@ -2,6 +2,8 @@
 
 # HTML5, CSS, and JS Calculator
 
+https://carlosjavier4.github.io/simple-calculator/
+
 This is a simple calculator developed using HTML5, CSS, and JavaScript.
 
 ## Features
